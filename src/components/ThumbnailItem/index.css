@@ -1,0 +1,14 @@
+/* Write your code here. */
+.thumbnail_list_item {
+  padding: 10px 12px;
+}
+.thumbnail_button {
+  border: 0px;
+  background-color: transparent;
+}
+.active_thumb {
+  opacity: 1;
+}
+.normal_thumb {
+  opacity: 0.5;
+}
